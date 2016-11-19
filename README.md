@@ -7,7 +7,7 @@ This course is so great about Machine Learning. It includes amost Machine Learni
 List of folder:
   + Assignment: contains all 8 assignments.
   + Document: contains all lecture notes of all weeks.
-  + Peer_Certificate_Patch: this is one of the most challenges when doing assignment. We need to apply this patch to each assignment before submitting. Please read "readme.tex" to know how to patch.
+  + Peer_Certificate_Patch: this is one of the most challenges when doing assignment. We need to apply this patch to each assignment before submitting. Please read "readme.txt" to know how to patch.
 
 List of main contents of Machine Learning course:
   + Week 1:
