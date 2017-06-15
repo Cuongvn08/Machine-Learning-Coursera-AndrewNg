@@ -1,4 +1,4 @@
-# Machine-Learning-Coursera-AndrewNg
+# All resolved assignments and documents for Machine Learning Coursera of professor Andrew Ng
 
 This repository consists of all done assignments, documents and exercise patch.
 I hope that I could help you guys study this course better.
